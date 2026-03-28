@@ -28,7 +28,6 @@ I built this to get practical experience with real NLP pipelines — from text p
 - `Train.py` → trains the model  
 - `Predict.py` → loads the trained model and makes predictions  
 - `Toxicity_Detector.h5` → the saved model  
-- `.gitignore` → keeps the dataset and extra files out of version control  
 
 ---
 
